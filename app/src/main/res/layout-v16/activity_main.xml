@@ -42,7 +42,7 @@
             android:layout_height="50dp"/>
 
     <EditText
-            android:id="@+id/nameEditText"
+            android:id="@+id/newFoodText"
             android:layout_below="@+id/viewHeight2"
             android:layout_centerHorizontal="true"
             android:layout_width="wrap_content"
@@ -51,7 +51,7 @@
             android:fontFamily="@font/comfortaa"/>
     <Button
             android:id="@+id/addFoodButton"
-            android:layout_below="@+id/nameEditText"
+            android:layout_below="@+id/newFoodText"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:fontFamily="@font/comfortaa"
